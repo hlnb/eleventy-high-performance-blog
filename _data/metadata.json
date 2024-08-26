@@ -1,26 +1,26 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
+  "title": "Helen B",
+  "url": "https://helenburgess.id.au",
+  "domain": "helenburgess.id.au",
   "description": "Description of the website. Update me.",
   "genre": "Insert a schema.org genre",
   "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
   "sendWebVitals": false,
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "The Latest writings from the pen of HelenB.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://helenburgess.id.au"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://helenburgess.id.au/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
+    "name": "Helen Burgess",
+    "twitterHandle": "hlnbee"
   },
   "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Helen Burgess"
   }
 }
